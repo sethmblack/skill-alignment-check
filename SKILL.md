@@ -4,7 +4,7 @@ description: Rapidly assess whether a team or organization is aligned around a c
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3369
+  version: 1.0.3370
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - alignment-check
